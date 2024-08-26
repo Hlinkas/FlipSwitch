@@ -1,4 +1,4 @@
-# FlipSwitch
+@RegisterBondsOfficial/
 An Enhanced FeatureToggle and possibly more.
 
 The entire idea is to have a rich configuration system that is able to be changed without restarting the application.
